@@ -1,3 +1,8 @@
+# Niako 2.0 Bot Terms of Use and Privacy Policy
+
+## Request to delete data
+Create a pull request to delete your data.
+
 # Terms
 1. **Introduction**
    > Используя наш проект вы безоговорочно принимаете описанные ниже условия и соглашаетесь с обработкой ваших персональных данных в соответствии с нашей политикой конфидицальности, а так же с условиями пользования и политикой конфидицальности самого Discord.
